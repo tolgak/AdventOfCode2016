@@ -1,4 +1,4 @@
-package puzzle2
+package Puzzle2
 
 import (
 	"fmt"
